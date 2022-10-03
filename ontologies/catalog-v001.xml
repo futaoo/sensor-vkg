@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1663689907291" name="http://purl.org/linked-data/cube" uri="cube.ttl"/>
+        <uri id="Automatically generated entry, Timestamp=1663689907291" name="http://www.ontodm.com/OntoDT" uri="OntoDT.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1663689907291" name="http://www.semanticweb.org/jiantaowu/ontologies/2022/3/CubeCA" uri="CubeCA.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1663689907291" name="http://www.w3.org/ns/sosa/" uri="Untitled.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1663689907291" name="http://www.w3.org/ns/ssn/" uri="ssn.owl"/>
+    </group>
+</catalog>

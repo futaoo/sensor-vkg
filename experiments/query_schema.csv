@@ -1,0 +1,7 @@
+,index,cost,entity
+0,Ontop-PostgreSQL,2.722,sensor
+1,Apache Jena Fuseki,0.018,sensor
+2,GraphDB,0.01308,sensor
+3,Ontop-PostgreSQL,11.287,observation
+4,Apache Jena Fuseki,4.604,observation
+5,GraphDB,20.258,observation

@@ -1,0 +1,31 @@
+,index,cost,year(s)
+0,Ontop-PostgreSQL,2.64241,1
+1,Apache Jena Fuseki,32.503057,1
+2,GraphDB,19.183485,1
+3,Ontop-PostgreSQL,1.44041,2
+4,Apache Jena Fuseki,30.077692,2
+5,GraphDB,10.876203,2
+6,Ontop-PostgreSQL,2.428643,3
+7,Apache Jena Fuseki,31.145453,3
+8,GraphDB,17.149716,3
+9,Ontop-PostgreSQL,7.020102,4
+10,Apache Jena Fuseki,38.528974,4
+11,GraphDB,57.335265,4
+12,Ontop-PostgreSQL,10.405643,5
+13,Apache Jena Fuseki,45.919001,5
+14,GraphDB,90.123966,5
+15,Ontop-PostgreSQL,8.999666,6
+16,Apache Jena Fuseki,41.015308,6
+17,GraphDB,73.830385,6
+18,Ontop-PostgreSQL,10.464791,7
+19,Apache Jena Fuseki,42.870573,7
+20,GraphDB,85.125165,7
+21,Ontop-PostgreSQL,15.082095,8
+22,Apache Jena Fuseki,52.294447,8
+23,GraphDB,126.45269,8
+24,Ontop-PostgreSQL,16.458619,9
+25,Apache Jena Fuseki,54.387094,9
+26,GraphDB,138.409295,9
+27,Ontop-PostgreSQL,16.969824,10
+28,Apache Jena Fuseki,51.329523,10
+29,GraphDB,130.817286,10
